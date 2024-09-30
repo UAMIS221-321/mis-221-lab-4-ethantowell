@@ -104,3 +104,4 @@ static void SayBye(){
 static void BadInput(){
     Console.WriteLine("Invalid menu choice");
     Pause();
+}
